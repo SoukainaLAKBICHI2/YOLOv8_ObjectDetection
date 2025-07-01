@@ -1,0 +1,6 @@
+train: C:/Users/Spectre/Desktop/ML/PI/YOLOv8_ObjectDetection/Dataset/train
+val: C:/Users/Spectre/Desktop/ML/PI/YOLOv8_ObjectDetection/Dataset/val
+
+nc: 25
+
+names: ["Chair","Lamp","TrashBin","Tree","Car","Crosswalk","Person","Motorcycle","Bicycle","TraficLight","CrossSign","Dog","Wall","Bus","Cat","Barrier","DeliveryBox","FireHydrant","FallenSign","Fence","Hole_in_the_road","Road_cone","Open_manhole","Road_workahead","shopping_cart"]
